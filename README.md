@@ -44,7 +44,7 @@ I enjoy building projects, learning how systems work internally, and preparing f
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Visit"/>
+<img src="https://komarev.com/ghpvc/?username=Dineshdaggolu&style=flat-square&color=blue" alt="Profile Visit"/>
 
 </div>
 
