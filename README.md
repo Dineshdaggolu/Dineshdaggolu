@@ -106,7 +106,7 @@ I enjoy building projects, learning how systems work internally, and preparing f
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=Dinesh_Daggolu&theme=dark&hide_border=true" alt="Streak"/>
 
 </div>
 
